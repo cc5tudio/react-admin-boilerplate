@@ -28,7 +28,7 @@ class HomePage extends React.Component {
                             <NavItem eventKey="2" title="Item">
                                 NavItem 2 content
                             </NavItem>
-                            <NavItem eventKey="3" disabled>
+                            <NavItem eventKey="3">
                                 NavItem 3 content
                             </NavItem>
 
